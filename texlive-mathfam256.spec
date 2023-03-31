@@ -1,6 +1,6 @@
 Name:		texlive-mathfam256
 Version:	53519
-Release:	1
+Release:	2
 Summary:	Extend math family up to 256 for pLaTeX/upLaTeX/Lamed
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathfam256
