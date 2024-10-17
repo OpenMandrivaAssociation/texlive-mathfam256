@@ -3,7 +3,7 @@ Version:	53519
 Release:	2
 Summary:	Extend math family up to 256 for pLaTeX/upLaTeX/Lamed
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathfam256
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathfam256
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathfam256.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathfam256.doc.r%{version}.tar.xz
